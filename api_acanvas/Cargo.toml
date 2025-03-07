@@ -1,0 +1,7 @@
+[package]
+name = "api_acanvas"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+domain_acanvas = { path = "../domain_acanvas" }
